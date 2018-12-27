@@ -15,7 +15,7 @@
       "name": "DEPNotify",
       "packageid": "menu.nomad.DEPNotify",
       "type": "package",
-      "url": "http://packages.medivo.io/DEPNotify-1.1.0.pkg",
+      "url": "https://raw.githubusercontent.com/medivo/PrognosDEPMunki/master/installapplications/pkgs/DEPNotify-1.1.0.pkg",
       "version": "1.1.0"
     }
   ],
@@ -56,13 +56,6 @@
       "name": "Munki Auto Trigger",
       "type": "rootscript",
       "url": "https://raw.githubusercontent.com/medivo/PrognosDEPMunki/master/installapplications/scripts/root/munki_auto_trigger.py"
-    },
-    {
-      "file": "/Library/Application Support/installapplications/userscripts/dockutil.py",
-      "hash": "1a8e8559e40c672ad63ecf136c31db4d2dc97a2bef8002a16497fa08bfbf6819",
-      "name": "Dockutil User",
-      "type": "userscript",
-      "url": "https://raw.githubusercontent.com/medivo/PrognosDEPMunki/master/installapplications/scripts/user/dockutil.py"
     },
     {
       "file": "/Library/Application Support/installapplications/depnotify_end.py",
