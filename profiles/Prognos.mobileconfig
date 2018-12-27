@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>LoginwindowText</key>
+			<string>This computer is owned and monitored by Prognos  By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies https://sites.google.com/medivo.com/priv-sec and have completed Security Awareness Training.</string>
+			<key>PayloadDescription</key>
+			<string>Configures Loginwindow settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Loginwindow</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.3CD54C57-3CE7-4352-A600-35DEDE6506C5.com.apple.loginwindow.F1B2DD4C-7730-4CBD-90FC-C027A86DB888</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.loginwindow</string>
+			<key>PayloadUUID</key>
+			<string>F1B2DD4C-7730-4CBD-90FC-C027A86DB888</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Prognos Profile</string>
+	<key>PayloadDisplayName</key>
+	<string>Prognos</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreator.3CD54C57-3CE7-4352-A600-35DEDE6506C5</string>
+	<key>PayloadOrganization</key>
+	<string>Prognos AI</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3CD54C57-3CE7-4352-A600-35DEDE6506C5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
